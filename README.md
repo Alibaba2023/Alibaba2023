@@ -1,13 +1,16 @@
-
-
-**About Me!**
+# 💫 About Me:
 
 - 👨🏽‍💻  I’m currently studying Web development at Mivroverse
-- 🤔 My interest lies in web development, mobile development, problem-solving, and machine learning
+- 🤔 My interest lies in web development, problem-solving, and machine learning
 - 💬 Ask me about anything from [ali7090370@gmail.com](mailto:ali7090370@gmail.com), I love to answer!
-- 🌐 You can see my portfolio [here](https://github.com/Alibaba2023/My_Portfolio)
+- 🌏 You can see my portfolio [here](https://github.com/Alibaba2023/My_Portfolio)
 
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-baba-hussaini-630607267/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AliBabaHu2023) 
+
+# 💻 Tech Stack:
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -34,20 +37,29 @@
   <br>
 </p>
 
-<h2 align="center"><u>My Github Stats</u></h2>
+# 📊 GitHub Stats:
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaba2023&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alibaba2023&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alibaba2023&theme=holi-theme">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibaba2023&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=kasweb">
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alibaba2023&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alibaba2023&theme=tokyonight&hide_border=false">
 </p>
 
+### ✍️ Random Dev Quote
+<p align="center">
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=false">
+</p>
 
+### 🔝 Top Contributed Repo
+<p align="center">
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=Alibaba2023&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+</p>
 
 -----
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
+[Ali Baba Hussaini](https://github.com/Alibaba2023/Alibaba2023)
 
-Last Edited on: 20/01/2022
+Last Edited on: 7/24/2023
