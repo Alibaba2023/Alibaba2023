@@ -7,7 +7,7 @@
 - 👨🏽‍💻  I’m currently studying Web development at Mivroverse
 - 🤔 My interest lies in web development, problem-solving, and machine learning
 - 💬 Ask me about anything from [ali7090370@gmail.com](mailto:ali7090370@gmail.com), I love to answer!
-- 🌏 You can see my portfolio [here](https://github.com/Alibaba2023/My_Portfolio)
+- 🌏 You can see my portfolio [here](https://alibaba2023.github.io/My_Portfolio/)
 
 
 <h3 align="center">Connect with me:</h3>
